@@ -1,6 +1,6 @@
 # Important Requirements here.
-py-Ultroid
-pytgcalls
+py-Ultroid:latest
+pytgcalls:latest
 https://github.com/New-dev0/Telethon/archive/Tarzan.zip
 #py-Ultroid==2021.10.10
 #pytgcalls==3.0.0.dev19
